@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="325.333" height="90" viewBox="0 0 325.333 90">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #707070;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        fill: #707070;
+        font-size: 42px;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Group_14" data-name="Group 14" transform="translate(-70.667 -20)">
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M25.667,65h66l7-19L104,104l14-86,4.667,68.667L132,65h59.333" transform="translate(47 4)"/>
+    <text id="PULSE" class="cls-2" transform="translate(252 83)"><tspan x="0" y="0">PULSE</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,91 @@
+.about{
+  color:#FFEE00;
+}
+
+.meet{
+  margin: 0 auto;
+  display: block;
+  align-items: center;
+  width: 100%;
+  height: 619px;
+  max-width: 1237px;
+  background-image: url(cssAssets/meet.png);
+  background-position: center;
+}
+
+.slogan{
+  display: block;
+  text-align: center;
+  font-size:5em;
+  font-weight: bold;
+  color: white;
+  z-index: 3;
+  padding-top: 400px;
+}
+
+.grid-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 5em;
+  max-width: 1280px;
+}
+
+section{
+  margin: 0 auto;
+  max-width: 600px;
+  width: 100%;
+  padding-bottom: 10px;
+}
+.second-grid{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0;
+}
+
+section img{
+  display: block;
+  margin: 0 auto;
+}
+
+h2,span,p{
+  text-align: center;
+}
+
+h2{
+  font-size: 2em;
+  color: #5B5B5B;
+  margin: 0;
+  margin-top: 2px;
+}
+
+p{
+  margin:2em;
+  color: #858585;
+  line-height: 1.5em;
+}
+
+h3{
+  color:#707070;
+  font-size: 1em;
+  text-align: center;
+  margin: 0;
+  margin-top: 1px;
+}
+
+@media screen and (max-width:980px) {
+
+  .second-grid{
+    display: block;
+    width: 100%;
+  }
+
+section{
+  display: block;
+  width: 100%;
+}
+
+
+}
